@@ -1,8 +1,6 @@
-<h3>🛠️ Minhas Tecnologias / Tech Stack</h3>
+### 🛠️ Minhas Tecnologias / Tech Stack
 
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="HTML5" />
-<img src="https://shields.io" alt="CSS3" />
-<img src="https://shields.io" alt="Git" />
-<img src="https://shields.io" alt="GitHub" />
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
