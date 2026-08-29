@@ -1,6 +1,7 @@
 ### 🛠️ Minhas Tecnologias / Tech Stack
 
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
+<p align="left">
+  <img src="https://githubusercontent.com" width="115" height="35" alt="Python" />
+  <img src="https://githubusercontent.com" width="115" height="35" alt="HTML5" />
+  <img src="https://githubusercontent.com" width="115" height="35" alt="CSS3" />
+</p>
