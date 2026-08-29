@@ -1,11 +1,8 @@
-# Olá, eu sou o Davi Pixel! 👋
+<h3>🛠️ Minhas Tecnologias / Tech Stack</h3>
 
-Desenvolvedor focado em Python, HTML e CSS. Bem-vindo ao meu perfil!
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="HTML5" />
+<img src="https://shields.io" alt="CSS3" />
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="GitHub" />
 
-### 🛠️ Minhas Tecnologias / Tech Stack
-
-![Python](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
-
----
-
-⭐ Sente-te à vontade para explorar os meus projetos públicos abaixo!
